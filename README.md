@@ -16,4 +16,4 @@ Además, temporalmente estamos utilizando el Azure Pricing Calculator para estim
 
 ![alt text](image-1.png)
 
-Para el trabajo en equipo, planeamos utilizar Azure DevOps, aunque esta decisión podría cambiar dependiendo de la infraestructura final elegida, siempre que sea justificada. Por ahora, nuestro espacio en EcoScan en Azure DevOps está en fase inicial, con la inclusión de todos los miembros del equipo a la espera de la aprobación de las partes interesadas."
+Para el trabajo en equipo, planeamos utilizar Azure DevOps, aunque esta decisión podría cambiar dependiendo de la infraestructura final elegida, siempre que sea justificada. Por ahora, nuestro espacio en EcoScan en Azure DevOps está en fase inicial, con la inclusión de todos los miembros del equipo a la espera de la aprobación de las partes interesadas. https://dev.azure.com/vic20498/EcoScan
